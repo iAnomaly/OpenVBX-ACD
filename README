@@ -1,0 +1,9 @@
+Stupid simple automatic call distributor with incoming call queue!
+
+*Place in your OpenVBX plugin folder
+*Drop the queue applet wherever you want it in your call flow
+*Name your queue, choose some hold music and tell it what to do when no agents are accepting calls
+*Tell your agents to use the Queue link under the new Calls menu and to set their status to Available when they are ready to receive calls
+*You're done!
+
+When a call comes in, it is routed to the first available agent or put on hold until an agent finishes their current call.

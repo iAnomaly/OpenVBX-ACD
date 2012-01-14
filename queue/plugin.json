@@ -1,0 +1,11 @@
+{
+	"name" : "ACD",
+	"author" : "Cameron Boulton",
+	"description" : "Automatic call distributor with incoming call queue.",
+	"links" : [{
+		"menu" : "Calls",
+		"url" : "queue",
+		"script" : "queue.php",
+		"label" : "Queue"
+	}]
+}
